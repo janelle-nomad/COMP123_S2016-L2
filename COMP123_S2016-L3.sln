@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123_S2016-L3", "COMP123_S2016-L3\COMP123_S2016-L3.csproj", "{EAFD7F38-D306-4866-8F47-98046EF0D7B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectForLesson3", "UnitTestProject1\UnitTestProjectForLesson3.csproj", "{B6CB9E0D-EFCC-4D36-8B97-F9BD17827FE3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectForLesson2", "UnitTestProject1\UnitTestProjectForLesson2.csproj", "{B6CB9E0D-EFCC-4D36-8B97-F9BD17827FE3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
